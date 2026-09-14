@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part 3 - Keyboard Inputs", "Part 3 - Keyboard Inputs\Part 3 - Keyboard Inputs.csproj", "{5FEB2CD6-760B-47C1-B266-A31C9E49A8E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FEB2CD6-760B-47C1-B266-A31C9E49A8E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FEB2CD6-760B-47C1-B266-A31C9E49A8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FEB2CD6-760B-47C1-B266-A31C9E49A8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FEB2CD6-760B-47C1-B266-A31C9E49A8E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CD31672-70CC-413E-A953-43C6EB3CD443}
+	EndGlobalSection
+EndGlobal
